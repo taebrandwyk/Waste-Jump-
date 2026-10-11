@@ -1,18 +1,16 @@
-Octocat Jump
+Waste Jump
 ============
 
 Playable on the [gh-pages branch](http://ogoshen.github.com/game-off-2012/)
 
-<img src="http://i.imgur.com/rCRrx.png" style="border:0;">
-<img src="http://i.imgur.com/QOGtr.png" style="border:0;">
 
 About
 -----
 A Doodle Jump clone for the **Github Game Off 2012**.
 
-Use the arrow keys to navigate your ever-jumping Octocat and collect stars for extra points.
+Use the arrow keys to navigate your ever-jumping Rubbish Bin and collect trash for extra points.
 Push higher with the green platforms, watch out from the red, they'll be pulled from under you.
-Forks will teleport you around 100 lines of code further.
+Recycling logo will teleport you around 100 lines of code further.
 
 
 Technicals
