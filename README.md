@@ -1,7 +1,6 @@
 Waste Jump
 ============
 
-Playable on the [gh-pages branch](http://ogoshen.github.com/game-off-2012/)
 
 
 About
